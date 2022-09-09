@@ -1,2 +1,4 @@
-# BossDiscordBot
-This is a discord bot designed as a tool to help bossing in Mapelstory with hard pattern timers.
+# Maplestory Boss Discord Bot
+
+** A live demo of the application can be found at [bluelink](actual linke)
+    -[Maplestory Boss Discord Bot](#maplestory-boss-discord-bot)
